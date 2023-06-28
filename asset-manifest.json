@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cbee7839.css",
-    "main.js": "/static/js/main.b9f6cc11.js",
+    "main.js": "/static/js/main.9f238730.js",
     "static/media/anh.png": "/static/media/anh.09438259152ec4b7eb49.png",
     "static/media/BG-team.png": "/static/media/BG-team.a1624e8a5f25c5573d55.png",
     "static/media/BG-service-2.png": "/static/media/BG-service-2.26770bc4449833559162.png",
@@ -59,10 +59,10 @@
     "static/media/fb.svg": "/static/media/fb.2d4965fbd748bce0ac71002678746dd5.svg",
     "static/media/icon-FB.svg": "/static/media/icon-FB.6f8cdb63d65f3cf0c1b344be046e1bf0.svg",
     "main.cbee7839.css.map": "/static/css/main.cbee7839.css.map",
-    "main.b9f6cc11.js.map": "/static/js/main.b9f6cc11.js.map"
+    "main.9f238730.js.map": "/static/js/main.9f238730.js.map"
   },
   "entrypoints": [
     "static/css/main.cbee7839.css",
-    "static/js/main.b9f6cc11.js"
+    "static/js/main.9f238730.js"
   ]
 }
