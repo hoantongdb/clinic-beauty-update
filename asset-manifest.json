@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbee7839.css",
-    "main.js": "/static/js/main.9f238730.js",
+    "main.css": "/static/css/main.151cbce0.css",
+    "main.js": "/static/js/main.2c9453ec.js",
     "static/media/anh.png": "/static/media/anh.09438259152ec4b7eb49.png",
     "static/media/BG-team.png": "/static/media/BG-team.a1624e8a5f25c5573d55.png",
     "static/media/BG-service-2.png": "/static/media/BG-service-2.26770bc4449833559162.png",
@@ -58,11 +58,11 @@
     "static/media/star.svg": "/static/media/star.0d26b289b7e02559f41a755509a9ebb9.svg",
     "static/media/fb.svg": "/static/media/fb.2d4965fbd748bce0ac71002678746dd5.svg",
     "static/media/icon-FB.svg": "/static/media/icon-FB.6f8cdb63d65f3cf0c1b344be046e1bf0.svg",
-    "main.cbee7839.css.map": "/static/css/main.cbee7839.css.map",
-    "main.9f238730.js.map": "/static/js/main.9f238730.js.map"
+    "main.151cbce0.css.map": "/static/css/main.151cbce0.css.map",
+    "main.2c9453ec.js.map": "/static/js/main.2c9453ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbee7839.css",
-    "static/js/main.9f238730.js"
+    "static/css/main.151cbce0.css",
+    "static/js/main.2c9453ec.js"
   ]
 }
